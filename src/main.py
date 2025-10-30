@@ -1,1 +1,1 @@
-src/
+src/main.ru
